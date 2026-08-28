@@ -75,17 +75,6 @@ function App() {
           </a>
         </p>
 
-        <p>
-          <a href="#">
-            CV
-          </a>
-        </p>
-
-        <p>
-          <a href="#">
-            Booking
-          </a>
-        </p>
       </section>
 
       <footer>
