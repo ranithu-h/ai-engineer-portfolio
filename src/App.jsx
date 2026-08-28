@@ -34,7 +34,7 @@ function App() {
             A web based tool created to help students solve simultaneous
             equations more easily.
           </p>
-          <a href="https://github.com/ranithu-h" target="_blank">
+          <a href="https://ranithu-h.github.io/SimultaneousCal/" target="_blank">
             GitHub
           </a>
         </article>
@@ -61,7 +61,7 @@ function App() {
         <h2>Contact</h2>
 
         <p>
-          <a href="https://www.linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/ranithu-h/" target="_blank">
             LinkedIn
           </a>
         </p>
