@@ -35,7 +35,7 @@ function App() {
             equations more easily.
           </p>
           <a href="https://ranithu-h.github.io/SimultaneousCal/" target="_blank">
-            GitHub
+            Website
           </a>
         </article>
 
@@ -46,6 +46,9 @@ function App() {
             A collection of projects exploring artificial intelligence,
             machine learning and data driven applications.
           </p>
+          <a href="https://github.com/ranithu-h/project-01-biometric-data-analysis" target="_blank">
+            GitHub
+          </a>
         </article>
       </section>
 
