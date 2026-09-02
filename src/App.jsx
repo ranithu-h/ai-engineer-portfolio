@@ -34,7 +34,11 @@ function App() {
             A web based tool created to help students solve simultaneous
             equations more easily.
           </p>
-          <a href="https://ranithu-h.github.io/SimultaneousCal/" target="_blank">
+          <a
+            href="https://ranithu-h.github.io/SimultaneousCal/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Website
           </a>
         </article>
@@ -46,7 +50,11 @@ function App() {
             A collection of projects exploring artificial intelligence,
             machine learning and data driven applications.
           </p>
-          <a href="https://github.com/ranithu-h/project-01-biometric-data-analysis" target="_blank">
+          <a
+            href="https://github.com/ranithu-h/project-01-biometric-data-analysis"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>
         </article>
@@ -63,18 +71,56 @@ function App() {
       <section id="contact">
         <h2>Contact</h2>
 
+        <form
+          action="https://formspree.io/f/xwlkbqne"
+          method="POST"
+        >
+          <label htmlFor="name">Name</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            required
+          />
+
+          <label htmlFor="email">Email</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            required
+          />
+
+          <label htmlFor="message">Message</label>
+          <textarea
+            id="message"
+            name="message"
+            rows="5"
+            required
+          ></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+
         <p>
-          <a href="https://www.linkedin.com/in/ranithu-h/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/ranithu-h/"
+            target="_blank"
+            rel="noreferrer"
+          >
             LinkedIn
           </a>
         </p>
 
         <p>
-          <a href="https://github.com/ranithu-h" target="_blank">
+          <a
+            href="https://github.com/ranithu-h"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>
         </p>
-
       </section>
 
       <footer>
