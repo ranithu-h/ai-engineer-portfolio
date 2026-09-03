@@ -18,7 +18,7 @@ function App() {
       <section id="about">
         <h2>About</h2>
         <p>
-          I am a computer science student focused on becoming an AI Engineer,
+          I am a Computer Science and AI student focused on becoming an AI Engineer,
           with full stack development skills. I am interested in artificial
           intelligence, machine learning and building practical software.
         </p>
