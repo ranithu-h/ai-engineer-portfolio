@@ -1,5 +1,6 @@
 import simcalImage from './assets/simcal.png'
 import aimlImage from './assets/aiml.png'
+import { Analytics } from '@vercel/analytics/react'
 
 function App() {
   return (
@@ -331,6 +332,7 @@ function App() {
   </span>
 </a>
       </footer>
+      <Analytics />
     </main>
   )
 }
